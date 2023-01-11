@@ -120,4 +120,8 @@ body{
 #info-buttons > .m-containers:first-child{
     margin-left: 10px;
 }
-
+img{
+    border-radius: 20px;
+    margin: 1px;
+    padding: auto;
+}
